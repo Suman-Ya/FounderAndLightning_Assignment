@@ -29,6 +29,7 @@ Take the contact form POST API ( given for the UI automated tests assignment ) a
 # Solution:
 
 Selected a public APIs to showcase the type of tests covered to test the API in Postman. 
+https://api.publicapis.org/entries
 
 #Execution: Import the json in Postman Local and run the API.
 
